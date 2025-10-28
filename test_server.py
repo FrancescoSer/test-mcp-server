@@ -1,5 +1,5 @@
 from mcp.server.fastmcp import FastMCP
-#instanziato il nostro server
+#instanzia il server
 mcp = FastMCP("TestServer")
 
 #aggiungi tool 1
