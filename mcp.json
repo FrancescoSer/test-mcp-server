@@ -1,0 +1,12 @@
+### for vscode
+{
+    "inputs":[],
+    "servers":{
+        "command":"python",
+        "args":[
+            "test_server.py"
+        ],
+    }
+}
+
+### in github copilot chat chiave inglese icona - selezionare nell'interfaccia  il server mcp ed i tool disponibili
