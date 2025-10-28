@@ -1,0 +1,1 @@
+Just a test MCP server to test stuff.
